@@ -18,6 +18,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 
 ## Content
 - [Academy](Lab_Writeups/Academy/README.md)
+- [Access](Lab_Writeups/Access/README.md)
 - [Active](Lab_Writeups/Active/README.md)
 - [Acute](Lab_Writeups/Acute/README.md)
 - [Admirer](Lab_Writeups/Admirer/README.md)
@@ -53,6 +54,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Devel](Lab_Writeups/Devel/README.md)
 - [DevOops](Lab_Writeups/DevOops/README.md)
 - [Doctor](Lab_Writeups/Doctor/README.md)
+- [Driver](Lab_Writeups/Driver/README.md)
 - [dynstr](Lab_Writeups/dynstr/README.md)
 - [Escape](Lab_Writeups/Escape/README.md)
 - [Flight](Lab_Writeups/Flight/README.md)
@@ -63,6 +65,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Grandpa](Lab_Writeups/Grandpa/README.md)
 - [Granny](Lab_Writeups/Granny/README.md)
 - [Hawk](Lab_Writeups/Hawk/README.md)
+- [Heist](Lab_Writeups/Heist/README.md)
 - [Horizontall](Lab_Writeups/Horizontall/README.md)
 - [Intelligence](Lab_Writeups/Intelligence/README.md)
 - [Irked](Lab_Writeups/Irked/README.md)

@@ -81,6 +81,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Luanne](Lab_Writeups/Luanne/README.md)
 - [Magic](Lab_Writeups/Magic/README.md)
 - [Mango](Lab_Writeups/Mango/README.md)
+- [Mantis](Lab_Writeups/Mantis/README.md)
 - [Meta](Lab_Writeups/Meta/README.md)
 - [Mirai](Lab_Writeups/Mirai/README.md)
 - [Monteverde](Lab_Writeups/Monteverde/README.md)

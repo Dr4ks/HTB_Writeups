@@ -13,7 +13,7 @@ I'm a Cyber Security student and open always to learning.
 
 
 # Description
-This repository is created to store Writeups of [Hackthebox](https://app.hackthebox.com/machines) machines. You can see writeups from below [Content Table](#content)
+This repository is created to store Writeups of [Hackthebox](https://app.hackthebox.com/machines) machines. You can see my writeups from below [Content Table](#content)
 
 
 ## Content
@@ -62,6 +62,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Forge](Lab_Writeups/Forge/README.md)
 - [FriendZone](Lab_Writeups/FriendZone/README.md)
 - [Frolic](Lab_Writeups/Frolic/README.md)
+- [GoodGames](Lab_Writeups/GoodGames/README.md)
 - [Grandpa](Lab_Writeups/Grandpa/README.md)
 - [Granny](Lab_Writeups/Granny/README.md)
 - [Hawk](Lab_Writeups/Hawk/README.md)

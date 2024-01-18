@@ -68,6 +68,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Hawk](Lab_Writeups/Hawk/README.md)
 - [Heist](Lab_Writeups/Heist/README.md)
 - [Horizontall](Lab_Writeups/Horizontall/README.md)
+- [Inject](Lab_Writeups/Inject/README.md)
 - [Intelligence](Lab_Writeups/Intelligence/README.md)
 - [Irked](Lab_Writeups/Irked/README.md)
 - [Jarvis](Lab_Writeups/Jarvis/README.md)

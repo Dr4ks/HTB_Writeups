@@ -103,6 +103,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Poison](Lab_Writeups/Poison/README.md)
 - [Popcorn](Lab_Writeups/Popcorn/README.md)
 - [Postman](Lab_Writeups/Postman/README.md)
+- [Precious](Lab_Writeups/Precious/README.md)
 - [Previse](Lab_Writeups/Previse/README.md)
 - [Querier](Lab_Writeups/Querier/README.md)
 - [Ready](Lab_Writeups/Ready/README.md)

@@ -52,6 +52,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Conceal](Lab_Writeups/Conceal/README.md)
 - [Control](Lab_Writeups/Control/README.md)
 - [Cronos](Lab_Writeups/Cronos/README.md)
+- [Curling](Lab_Writeups/Curling/README.md)
 - [Delivery](Lab_Writeups/Delivery/README.md)
 - [Devel](Lab_Writeups/Devel/README.md)
 - [DevOops](Lab_Writeups/DevOops/README.md)

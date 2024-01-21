@@ -129,6 +129,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [SneakyMailer](Lab_Writeups/SneakyMailer/README.md)
 - [Soccer](Lab_Writeups/Soccer/README.md)
 - [Solidstate](Lab_Writeups/Solidstate/README.md)
+- [Stocker](Lab_Writeups/Stocker/README.md)
 - [StreamIO](Lab_Writeups/StreamIO/README.md)
 - [Sunday](Lab_Writeups/Sunday/README.md)
 - [SwagShop](Lab_Writeups/SwagShop/README.md)

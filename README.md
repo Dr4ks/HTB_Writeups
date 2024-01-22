@@ -143,6 +143,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [UpDown](Lab_Writeups/UpDown/README.md)
 - [Valentine](Lab_Writeups/Valentine/README.md)
 - [Validation](Lab_Writeups/Validation/README.md)
+- [Wifinetic](Lab_Writeups/Wifinetic/README.md)
 - [Worker](Lab_Writeups/Worker/README.md)
 - [Writer](Lab_Writeups/Writer/README.md)
 

@@ -24,9 +24,6 @@ Let's do subdomain enumeration via `wfuzz` tool.
 wfuzz -u http://10.10.11.180 -H "Host: FUZZ.shoppy.htb" -w /usr/share/seclists/Discovery/DNS/bitquark-subdomains-top100000.txt --hh 169
 ```
 
-put image here.
-
-
 I also did directory enumeration for `shoppy.htb` application via `feroxbuster` tool.
 ```bash
 feroxbuster --url http://shoppy.htb/

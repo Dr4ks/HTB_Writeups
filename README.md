@@ -41,6 +41,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Blunder](Lab_Writeups/Blunder/README.md)
 - [Book](Lab_Writeups/Book/README.md)
 - [Bounty](Lab_Writeups/Bounty/README.md)
+- [BountyHunter](Lab_Writeups/BountyHunter/README.md)
 - [Brainfuck](Lab_Writeups/Brainfuck/README.md)
 - [Broker](Lab_Writeups/Broker/README.md)
 - [Buff](Lab_Writeups/Buff/README.md)

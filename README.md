@@ -127,6 +127,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Sense](Lab_Writeups/Sense/README.md)
 - [Shibboleth](Lab_Writeups/Shibboleth/README.md)
 - [Shocker](Lab_Writeups/Shocker/README.md)
+- [Shoppy](Lab_Writeups/Shoppy/README.md)
 - [Silo](Lab_Writeups/Silo/README.md)
 - [SneakyMailer](Lab_Writeups/SneakyMailer/README.md)
 - [Soccer](Lab_Writeups/Soccer/README.md)

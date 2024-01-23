@@ -97,6 +97,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Nibbles](Lab_Writeups/Nibbles/README.md)
 - [Nineveh](Lab_Writeups/Nineveh/README.md)
 - [Node](Lab_Writeups/Node/README.md)
+- [Nunchucks](Lab_Writeups/Nunchucks/README.md)
 - [Object](Lab_Writeups/Object/README.md)
 - [October](Lab_Writeups/October/README.md)
 - [OpenAdmin](Lab_Writeups/OpenAdmin/README.md)

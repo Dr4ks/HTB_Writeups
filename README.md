@@ -141,6 +141,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [TartarSauce](Lab_Writeups/TartarSauce/README.md)
 - [Time](Lab_Writeups/Time/README.md)
 - [Timelapse](Lab_Writeups/Timelapse/README.md)
+- [TraceBack](Lab_Writeups/TraceBack/README.md)
 - [Traverxec](Lab_Writeups/Traverxec/README.md)
 - [Undetected](Lab_Writeups/Undetected/README.md)
 - [UpDown](Lab_Writeups/UpDown/README.md)

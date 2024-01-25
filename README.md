@@ -101,6 +101,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Object](Lab_Writeups/Object/README.md)
 - [October](Lab_Writeups/October/README.md)
 - [OpenAdmin](Lab_Writeups/OpenAdmin/README.md)
+- [OpenSource](Lab_Writeups/OpenSource/README.md)
 - [Optimum](Lab_Writeups/Optimum/README.md)
 - [Pandora](Lab_Writeups/Pandora/README.md)
 - [Paper](Lab_Writeups/Paper/README.md)

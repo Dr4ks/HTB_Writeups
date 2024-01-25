@@ -143,6 +143,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Timelapse](Lab_Writeups/Timelapse/README.md)
 - [TraceBack](Lab_Writeups/TraceBack/README.md)
 - [Traverxec](Lab_Writeups/Traverxec/README.md)
+- [Trick](Lab_Writeups/Trick/README.md)
 - [Undetected](Lab_Writeups/Undetected/README.md)
 - [UpDown](Lab_Writeups/UpDown/README.md)
 - [Valentine](Lab_Writeups/Valentine/README.md)

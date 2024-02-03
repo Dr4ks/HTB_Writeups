@@ -110,6 +110,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Passage](Lab_Writeups/Passage/README.md)
 - [Photobomb](Lab_Writeups/Photobomb/README.md)
 - [Pikaboo](Lab_Writeups/Pikaboo/README.md)
+- [Pilgrimage](Lab_Writeups/Pilgrimage/README.md)
 - [Pit](Lab_Writeups/Pit/README.md)
 - [Poison](Lab_Writeups/Poison/README.md)
 - [Popcorn](Lab_Writeups/Popcorn/README.md)

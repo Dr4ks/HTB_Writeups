@@ -72,6 +72,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Grandpa](Lab_Writeups/Grandpa/README.md)
 - [Granny](Lab_Writeups/Granny/README.md)
 - [Hawk](Lab_Writeups/Hawk/README.md)
+- [Haystack](Lab_Writeups/Haystack/README.md)
 - [Heist](Lab_Writeups/Heist/README.md)
 - [Horizontall](Lab_Writeups/Horizontall/README.md)
 - [Inject](Lab_Writeups/Inject/README.md)

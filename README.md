@@ -82,6 +82,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Jarvis](Lab_Writeups/Jarvis/README.md)
 - [Jeeves](Lab_Writeups/Jeeves/README.md)
 - [Jerry](Lab_Writeups/Jerry/README.md)
+- [Keeper](Lab_Writeups/Keeper/README.md)
 - [Knife](Lab_Writeups/Knife/README.md)
 - [Kotarak](Lab_Writeups/Kotarak/README.md)
 - [Lame](Lab_Writeups/Lame/README.md)

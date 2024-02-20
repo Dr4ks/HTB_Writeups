@@ -68,6 +68,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Driver](Lab_Writeups/Driver/README.md)
 - [dynstr](Lab_Writeups/dynstr/README.md)
 - [Escape](Lab_Writeups/Escape/README.md)
+- [Faculty](Lab_Writeups/Faculty/README.md)
 - [Flight](Lab_Writeups/Flight/README.md)
 - [Forest](Lab_Writeups/Forest/README.md)
 - [Forge](Lab_Writeups/Forge/README.md)

@@ -162,6 +162,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Tabby](Lab_Writeups/Tabby/README.md)
 - [Tally](Lab_Writeups/Tally/README.md)
 - [TartarSauce](Lab_Writeups/TartarSauce/README.md)
+- [Tenet](Lab_Writeups/Tenet/README.md)
 - [Time](Lab_Writeups/Time/README.md)
 - [Timelapse](Lab_Writeups/Timelapse/README.md)
 - [Topology](Lab_Writeups/Topology/README.md)

@@ -155,6 +155,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Soccer](Lab_Writeups/Soccer/README.md)
 - [Solidstate](Lab_Writeups/Solidstate/README.md)
 - [Spectra](Lab_Writeups/Spectra/README.md)
+- [SteamCloud](Lab_Writeups/SteamCloud/README.md)
 - [Stocker](Lab_Writeups/Stocker/README.md)
 - [StreamIO](Lab_Writeups/StreamIO/README.md)
 - [Sunday](Lab_Writeups/Sunday/README.md)

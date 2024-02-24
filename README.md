@@ -104,6 +104,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Mantis](Lab_Writeups/Mantis/README.md)
 - [Mentor](Lab_Writeups/Mentor/README.md)
 - [Meta](Lab_Writeups/Meta/README.md)
+- [MetaTwo](Lab_Writeups/MetaTwo/README.md)
 - [Mirai](Lab_Writeups/Mirai/README.md)
 - [Monteverde](Lab_Writeups/Monteverde/README.md)
 - [Netmon](Lab_Writeups/Netmon/README.md)

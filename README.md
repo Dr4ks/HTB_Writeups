@@ -64,6 +64,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Devel](Lab_Writeups/Devel/README.md)
 - [DevOops](Lab_Writeups/DevOops/README.md)
 - [Devvortex](Lab_Writeups/Devvortex/README.md)
+- [Devzat](Lab_Writeups/Devzat/README.md)
 - [Doctor](Lab_Writeups/Doctor/README.md)
 - [Driver](Lab_Writeups/Driver/README.md)
 - [dynstr](Lab_Writeups/dynstr/README.md)

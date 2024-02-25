@@ -179,6 +179,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Wifinetic](Lab_Writeups/Wifinetic/README.md)
 - [Worker](Lab_Writeups/Worker/README.md)
 - [Writer](Lab_Writeups/Writer/README.md)
+- [Writeup](Lab_Writeups/Writeup/README.md)
 
 
 # Author

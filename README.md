@@ -68,7 +68,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Doctor](Lab_Writeups/Doctor/README.md)
 - [Driver](Lab_Writeups/Driver/README.md)
 - [dynstr](Lab_Writeups/dynstr/README.md)
-- [Epilson](Lab_Writeups/Epsilon/README.md)
+- [Epsilon](Lab_Writeups/Epsilon/README.md)
 - [Escape](Lab_Writeups/Escape/README.md)
 - [Europa](Lab_Writeups/Europa/README.md)
 - [Faculty](Lab_Writeups/Faculty/README.md)

@@ -51,6 +51,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Builder](Lab_Writeups/Builder/README.md)
 - [Busqueda](Lab_Writeups/Busqueda/README.md)
 - [Cache](Lab_Writeups/Cache/README.md)
+- [Canape](Lab_Writeups/Canape/README.md)
 - [Cap](Lab_Writeups/Cap/README.md)
 - [Cascade](Lab_Writeups/Cascade/README.md)
 - [Celestial](Lab_Writeups/Celestial/README.md)

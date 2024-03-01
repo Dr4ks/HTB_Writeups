@@ -78,6 +78,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Forge](Lab_Writeups/Forge/README.md)
 - [FriendZone](Lab_Writeups/FriendZone/README.md)
 - [Frolic](Lab_Writeups/Frolic/README.md)
+- [Gobox](Lab_Writeups/Gobox/README.md)
 - [GoodGames](Lab_Writeups/GoodGames/README.md)
 - [Grandpa](Lab_Writeups/Grandpa/README.md)
 - [Granny](Lab_Writeups/Granny/README.md)

@@ -60,6 +60,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Chatterbox](Lab_Writeups/Chatterbox/README.md)
 - [Conceal](Lab_Writeups/Conceal/README.md)
 - [Control](Lab_Writeups/Control/README.md)
+- [CozyHosting](Lab_Writeups/CozyHosting/README.md)
 - [Cronos](Lab_Writeups/Cronos/README.md)
 - [Curling](Lab_Writeups/Curling/README.md)
 - [Delivery](Lab_Writeups/Delivery/README.md)

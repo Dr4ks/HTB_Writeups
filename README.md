@@ -189,6 +189,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Worker](Lab_Writeups/Worker/README.md)
 - [Writer](Lab_Writeups/Writer/README.md)
 - [Writeup](Lab_Writeups/Writeup/README.md)
+- [Zipping](Lab_Writeups/Zipping/README.md)
 
 
 # Author

@@ -154,6 +154,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [SecNotes](Lab_Writeups/SecNotes/README.md)
 - [Secret](Lab_Writeups/Secret/README.md)
 - [Sense](Lab_Writeups/Sense/README.md)
+- [Shared](Lab_Writeups/Shared/README.md)
 - [Shibboleth](Lab_Writeups/Shibboleth/README.md)
 - [Shocker](Lab_Writeups/Shocker/README.md)
 - [Shoppy](Lab_Writeups/Shoppy/README.md)

@@ -144,6 +144,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Redcross](Lab_Writeups/Redcross/README.md)
 - [Reel](Lab_Writeups/Reel/README.md)
 - [Remote](Lab_Writeups/Remote/README.md)
+- [Resolute](Lab_Writeups/Resolute/README.md)
 - [Return](Lab_Writeups/Return/README.md)
 - [Sau](Lab_Writeups/Sau/README.md)
 - [Sauna](Lab_Writeups/Sauna/README.md)

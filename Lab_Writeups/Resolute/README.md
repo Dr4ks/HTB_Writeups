@@ -104,7 +104,7 @@ While I running `whoami /groups` to recon this user that belongs to which groups
 
 From output, you can see this user belongs `DnsAdmins` group which is so sensitive thing.
 
-I use [this](https://app.hackthebox.com/machines/Resolute) for abusing membership of `DnsAdmins` group.
+I use [this](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/privileged-groups-and-token-privileges#dnsadmins) for abusing membership of `DnsAdmins` group.
 
 
 First, I need to create malicious `.dll` file which gives me `reverse shell`.

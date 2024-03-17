@@ -107,6 +107,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Luanne](Lab_Writeups/Luanne/README.md)
 - [Magic](Lab_Writeups/Magic/README.md)
 - [Mailroom](Lab_Writeups/Mailroom/README.md)
+- [Manager](Lab_Writeups/Manager/README.md)
 - [Mango](Lab_Writeups/Mango/README.md)
 - [Mantis](Lab_Writeups/Mantis/README.md)
 - [Mentor](Lab_Writeups/Mentor/README.md)

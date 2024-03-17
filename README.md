@@ -29,6 +29,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Arctic](Lab_Writeups/Arctic/README.md)
 - [Armageddon](Lab_Writeups/Armageddon/README.md)
 - [Atom](Lab_Writeups/Atom/README.md)
+- [Authority](Lab_Writeups/Authority/README.md)
 - [Backdoor](Lab_Writeups/Backdoor/README.md)
 - [Bank](Lab_Writeups/Bank/README.md)
 - [Bart](Lab_Writeups/Bart/README.md)

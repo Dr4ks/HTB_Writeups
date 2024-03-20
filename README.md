@@ -24,6 +24,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Admirer](Lab_Writeups/Admirer/README.md)
 - [Agile](Lab_Writeups/Agile/README.md)
 - [Ambassador](Lab_Writeups/Ambassador/README.md)
+- [Analytics](Lab_Writeups/Analytics/README.md)
 - [Antique](Lab_Writeups/Antique/README.md)
 - [Aragog](Lab_Writeups/Aragog/README.md)
 - [Arctic](Lab_Writeups/Arctic/README.md)

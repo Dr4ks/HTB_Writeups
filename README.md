@@ -135,6 +135,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Pandora](Lab_Writeups/Pandora/README.md)
 - [Paper](Lab_Writeups/Paper/README.md)
 - [Passage](Lab_Writeups/Passage/README.md)
+- [Perfection](Lab_Writeups/Perfection/README.md)
 - [Photobomb](Lab_Writeups/Photobomb/README.md)
 - [Pikaboo](Lab_Writeups/Pikaboo/README.md)
 - [Pilgrimage](Lab_Writeups/Pilgrimage/README.md)

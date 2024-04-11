@@ -117,6 +117,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Meta](Lab_Writeups/Meta/README.md)
 - [MetaTwo](Lab_Writeups/MetaTwo/README.md)
 - [Mirai](Lab_Writeups/Mirai/README.md)
+- [MonitorsTwo](Lab_Writeups/MonitorsTwo/README.md)
 - [Monteverde](Lab_Writeups/Monteverde/README.md)
 - [Netmon](Lab_Writeups/Netmon/README.md)
 - [Networked](Lab_Writeups/Networked/README.md)

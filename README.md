@@ -60,6 +60,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Celestial](Lab_Writeups/Celestial/README.md)
 - [Cerberus](Lab_Writeups/Cerberus/README.md)
 - [Chatterbox](Lab_Writeups/Chatterbox/README.md)
+- [Clicker](Lab_Writeups/Clicker/README.md)
 - [Codify](Lab_Writeups/Codify/README.md)
 - [Conceal](Lab_Writeups/Conceal/README.md)
 - [Control](Lab_Writeups/Control/README.md)

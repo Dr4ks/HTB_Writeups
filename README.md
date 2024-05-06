@@ -96,6 +96,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Help](Lab_Writeups/Help/README.md)
 - [Horizontall](Lab_Writeups/Horizontall/README.md)
 - [Hospital](Lab_Writeups/Hospital/README.md)
+- [IClean](Lab_Writeups/IClean/README.md)
 - [Inject](Lab_Writeups/Inject/README.md)
 - [Intelligence](Lab_Writeups/Intelligence/README.md)
 - [Irked](Lab_Writeups/Irked/README.md)

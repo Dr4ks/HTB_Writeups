@@ -100,6 +100,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Inject](Lab_Writeups/Inject/README.md)
 - [Intelligence](Lab_Writeups/Intelligence/README.md)
 - [Irked](Lab_Writeups/Irked/README.md)
+- [Jab](Lab_Writeups/Jab/README.md)
 - [Jarvis](Lab_Writeups/Jarvis/README.md)
 - [Jeeves](Lab_Writeups/Jeeves/README.md)
 - [Jerry](Lab_Writeups/Jerry/README.md)

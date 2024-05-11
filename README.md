@@ -83,6 +83,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Flight](Lab_Writeups/Flight/README.md)
 - [Forest](Lab_Writeups/Forest/README.md)
 - [Forge](Lab_Writeups/Forge/README.md)
+- [FormulaX](Lab_Writeups/FormulaX/README.md)
 - [FriendZone](Lab_Writeups/FriendZone/README.md)
 - [Frolic](Lab_Writeups/Frolic/README.md)
 - [Gobox](Lab_Writeups/Gobox/README.md)

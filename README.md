@@ -149,6 +149,7 @@ This repository is created to store Writeups of [Hackthebox](https://app.hackthe
 - [Pilgrimage](Lab_Writeups/Pilgrimage/README.md)
 - [Pit](Lab_Writeups/Pit/README.md)
 - [Poison](Lab_Writeups/Poison/README.md)
+- [POO](Lab_Writeups/POO/README.md)
 - [Popcorn](Lab_Writeups/Popcorn/README.md)
 - [Postman](Lab_Writeups/Postman/README.md)
 - [Precious](Lab_Writeups/Precious/README.md)
